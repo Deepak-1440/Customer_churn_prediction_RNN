@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project predicts whether a bank customer is likely to leave (churn) using a Artificial Neural Network (RNN). Customer churn prediction helps banks identify customers who may discontinue their services and enables proactive retention strategies.
+This project predicts whether a bank customer is likely to leave (churn) using a Artificial Neural Network (ANN). Customer churn prediction helps banks identify customers who may discontinue their services and enables proactive retention strategies.
 
 The model is trained on customer demographic and account-related information to classify customers into two categories:
 
