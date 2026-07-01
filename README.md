@@ -1,8 +1,8 @@
-# Customer Churn Prediction Using RNN
+# Customer Churn Prediction Using ANN
 
 ## Project Overview
 
-This project predicts whether a bank customer is likely to leave (churn) using a Recurrent Neural Network (RNN). Customer churn prediction helps banks identify customers who may discontinue their services and enables proactive retention strategies.
+This project predicts whether a bank customer is likely to leave (churn) using a Artificial Neural Network (RNN). Customer churn prediction helps banks identify customers who may discontinue their services and enables proactive retention strategies.
 
 The model is trained on customer demographic and account-related information to classify customers into two categories:
 
@@ -16,7 +16,7 @@ The model is trained on customer demographic and account-related information to 
 - Data preprocessing and feature engineering
 - Handling categorical and numerical features
 - Feature scaling using StandardScaler
-- Recurrent Neural Network (RNN) implementation using TensorFlow/Keras
+- Artificial Neural Network (RNN) implementation using TensorFlow/Keras
 - Model training and evaluation
 - Churn probability prediction for new customers
 - Deployment-ready prediction pipeline
@@ -72,7 +72,7 @@ customer-churn-rnn/
 │   └── prediction.ipynb
 │
 ├── models/
-│   ├── rnn_model.h5
+│   ├── ann_model.h5
 │   ├── scaler.pkl
 │   ├── label_encoder_gender.pkl
 │   └── onehot_encoder_geo.pkl
